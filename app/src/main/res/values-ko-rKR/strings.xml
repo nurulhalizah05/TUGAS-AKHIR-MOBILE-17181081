@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">profilelisa</string>
+    <string name="email">이메일 : 1718081@scholar.itn.ac.id</string>
+    <string name="call_number">전화 번호 : +62-8969720047</string>
+    <string name="alamat">주소 : Jl. perusahaan</string>
+    <string name="mood">기분 : 행복</string>
+    <string name="status">날 따라와</string>
+</resources>

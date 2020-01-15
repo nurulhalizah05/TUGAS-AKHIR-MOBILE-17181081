@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">profilelisa</string>
+    <string name="email">Email : 1718081@scholar.itn.ac.id</string>
+    <string name="call_number">Call Number : +62–89697200047</string>
+    <string name="alamat">Address : Jl. perusahaan</string>
+    <string name="mood">Mood : Sad</string>
+    <string name="status">Follow Me</string>
+    <string name="profilelisa">profilelisa</string>
+</resources>
